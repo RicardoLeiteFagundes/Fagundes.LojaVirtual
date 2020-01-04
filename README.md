@@ -1,0 +1,2 @@
+# Fagundes.LojaVirtual
+Loja Virtual
