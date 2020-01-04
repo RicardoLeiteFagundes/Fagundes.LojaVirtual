@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -8,7 +9,8 @@ namespace Fagundes.LojaVirtual.Dominio.Entidades
 {
     public class Produto
     {
-        public int ProdutoID { get; set; }
+        [Key]
+         public int ProdutoID { get; set; }
 
         public string Nome { get; set; }
 
