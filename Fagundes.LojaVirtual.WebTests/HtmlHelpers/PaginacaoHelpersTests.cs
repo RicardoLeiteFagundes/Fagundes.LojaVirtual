@@ -4,16 +4,11 @@ using Fagundes.LojaVirtual.Web.HtmlHelpers;
 using Fagundes.LojaVirtual.Web.Models;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-
-namespace Fagundes.LojaVirtual.UnitTest
+namespace Fagundes.LojaVirtual.WebTests.HtmlHelpers
 {
-    [TestClass]
-    public class UnitTest1
+    [TestClass()]
+    public class PaginacaoHelpersTests
     {
-        [TestMethod]
-        public void TestMethod1()
-        {
-        }
 
         [TestMethod]
         public void TestarSeAPaginacaoEstaSendoGeradaCorretamente()
@@ -39,6 +34,5 @@ namespace Fagundes.LojaVirtual.UnitTest
 
             );
         }
-
     }
 }

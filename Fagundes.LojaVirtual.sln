@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fagundes.LojaVirtual.Domini
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fagundes.LojaVirtual.Web", "Fagundes.LojaVirtual.Web\Fagundes.LojaVirtual.Web.csproj", "{E48DE758-413F-46F2-9288-D3DFCAB93878}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fagundes.LojaVirtual.UnitTest", "Fagundes.LojaVirtual.UnitTest\Fagundes.LojaVirtual.UnitTest.csproj", "{1D2226CD-9B1C-4F1D-8743-3800A7CE93F1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fagundes.LojaVirtual.UnitTest", "Fagundes.LojaVirtual.UnitTest\Fagundes.LojaVirtual.UnitTest.csproj", "{5AC002BF-FBF6-4655-8320-1ADAE90B4AB6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{E48DE758-413F-46F2-9288-D3DFCAB93878}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E48DE758-413F-46F2-9288-D3DFCAB93878}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E48DE758-413F-46F2-9288-D3DFCAB93878}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1D2226CD-9B1C-4F1D-8743-3800A7CE93F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1D2226CD-9B1C-4F1D-8743-3800A7CE93F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1D2226CD-9B1C-4F1D-8743-3800A7CE93F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1D2226CD-9B1C-4F1D-8743-3800A7CE93F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AC002BF-FBF6-4655-8320-1ADAE90B4AB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AC002BF-FBF6-4655-8320-1ADAE90B4AB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AC002BF-FBF6-4655-8320-1ADAE90B4AB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AC002BF-FBF6-4655-8320-1ADAE90B4AB6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
